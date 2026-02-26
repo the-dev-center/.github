@@ -1,6 +1,6 @@
-# the-dev-center (Dev Center)
+# DevCntr (Dev Center)
 
-the-dev-center is an organization centered around a collection of projects for enhancing developer workflow and orientation. We develop an app that organizes and manages software projects and provides orientation and templates for best practices and up-to-date knowledge about developer tooling.
+DevCntr is an organization centered around enhancing developer workflow, learning, and human-in-the-loop development of software. Our Dev Center app helps developers manage, organize, and analyze the entire software engineering process, including software repositories, local machine setup and management, template files for best practices and up-to-date knowledge about developer tooling, and contextually relevant in-app educational workflows for orientation and onboarding.
 
-App repo: [dev-center](https://github.com/the-dev-center/dev-center)
-Docs repo: [docs](https://github.com/the-dev-center/docs)
+App repo: [dev-center](https://github.com/devcntr-org/dev-center)
+Docs are spread out across repositories and integrated via the [docs](https://github.com/devcntr-org/docs) repository into a final site at docs.devcntr.org
