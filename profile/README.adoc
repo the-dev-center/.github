@@ -5,8 +5,8 @@ Welcome to the DevCntr organization. We focus on enhancing developer workflow, l
 == 🚀 Key Destinations
 
 * **Landing Page:** link:https://devcntr.org[devcntr.org]
-* **App Homepage:** link:https://devcntr.app[devcntr.app]
-* **Documentation:** link:https://docs.devcntr.app[docs.devcntr.app]
+* **App Homepage:** link:https://devcntr.org[devcntr.org]
+* **Documentation:** link:https://docs.devcntr.org[docs.devcntr.org]
 
 == 📦 Repository Groupings
 
